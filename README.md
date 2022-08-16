@@ -1,4 +1,4 @@
-[/]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)  
+[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)    
   
 ![] (https://github.com/Codes-Exe/ar./workflows/CI/badge.svg) 
 ![](https://github.com/Codes-Exe/ar./workflows/GH-Pages%20Status/badge.svg)       
@@ -6,8 +6,8 @@
     
 https://Codes-Exe.github.io/ar./
 
-#  Code pages
-  ![13722285 (2)](https://user-images.githubusercontent.com/93947784/184916027-a83ec095-910e-41ed-b26d-4f86b22a1d27.png)
+#  Code pages 
+![13722285 (2)](https://user-images.githubusercontent.com/93947784/184916027-a83ec095-910e-41ed-b26d-4f86b22a1d27.png)  
  
 
   
