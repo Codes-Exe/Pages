@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
+title: CodesExe
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: Codes-Exe
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "ar."
+github_repo: "pages"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
