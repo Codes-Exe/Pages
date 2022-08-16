@@ -1,5 +1,4 @@
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
-![13722285 (2)](https://user-images.githubusercontent.com/93947784/184906509-6d663dec-bd24-4d77-bf03-4e41706ff5c1.png)
 
 ! [] (https://github.com/Codes-Exe/ar./workflows/CI/badge.svg) 
 ![](https://github.com/Codes-Exe/ar./workflows/GH-Pages%20Status/badge.svg) 
@@ -8,6 +7,7 @@
 https://Codes-Exe.github.io/pages/.
 
 # My Blog 
+![13722285 (2)](https://user-images.githubusercontent.com/93947784/184907071-50e49d9c-1a01-449c-9a41-07f63f003e01.png)
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
